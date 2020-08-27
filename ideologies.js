@@ -207,7 +207,7 @@ ideologies = [
        }
     },
     {
-        "name": "Theocracy",
+        "name": "Traditional Theocracy",
         "stats": {
             "econ": 20,
             "dipl": 20,
